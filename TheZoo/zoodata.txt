@@ -1,0 +1,2 @@
+0000001 asdf             Mammal           Bat              0 1
+0000003 asdf             Oviparous        Goose            2 0
